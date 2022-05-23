@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/xuejl/FirstJavaPipelineTest/_apis/build/status/rachelxj-ms.pipelines-java?branchName=master)](https://dev.azure.com/xuejl/FirstJavaPipelineTest/_build/latest?definitionId=11&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
